@@ -1,0 +1,168 @@
+{
+  "navigation": {
+    "home": "Home",
+    "construction": "Construction",
+    "properties": "Properties",
+    "about": "About",
+    "contact": "Contact",
+    "getQuote": "Get a Quote"
+  },
+  "hero": {
+    "title": "Building Dreams, Creating Homes",
+    "subtitle": "Your trusted partner for construction services and real estate solutions. Quality craftsmanship and exceptional properties.",
+    "services": "Our Services",
+    "viewProperties": "View Properties"
+  },
+  "construction": {
+    "title": "Construction Services",
+    "subtitle": "Expert Construction Solutions",
+    "description": "From residential to commercial projects, we deliver quality construction with attention to detail and commitment to excellence.",
+    "residential": {
+      "title": "Residential Construction",
+      "description": "Custom homes, renovations, and additions tailored to your vision and lifestyle."
+    },
+    "commercial": {
+      "title": "Commercial Construction",
+      "description": "Office buildings, retail spaces, and industrial facilities built to the highest standards."
+    },
+    "renovation": {
+      "title": "Renovation & Remodeling",
+      "description": "Transform existing spaces with modern designs and quality craftsmanship."
+    },
+    "requestConsultation": "Request a Consultation",
+    "process": {
+      "title": "Our Construction Process",
+      "description": "We follow a systematic approach to ensure your project is completed on time, within budget, and to your satisfaction.",
+      "planning": {
+        "title": "Planning & Design",
+        "description": "Collaborative planning and detailed design to capture your vision and requirements."
+      },
+      "construction": {
+        "title": "Construction",
+        "description": "Expert execution with quality materials and skilled craftsmanship."
+      },
+      "completion": {
+        "title": "Completion & Handover",
+        "description": "Final inspections, quality checks, and smooth handover of your completed project."
+      }
+    }
+  },
+  "properties": {
+    "title": "Real Estate",
+    "subtitle": "Featured Properties",
+    "description": "Discover our selection of premium properties in prime locations, designed for modern living and investment.",
+    "tabs": {
+      "all": "All",
+      "residential": "Residential",
+      "commercial": "Commercial",
+      "land": "Land"
+    },
+    "viewAll": "View All Properties",
+    "property": {
+      "forSale": "For Sale",
+      "bedrooms": "Bedrooms",
+      "bathrooms": "Bathrooms",
+      "garage": "Garage",
+      "sqft": "sqft",
+      "viewDetails": "View Details"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Our Story",
+    "description1": "With over 20 years of experience in construction and real estate, Edirne Construction Limited has established a reputation for excellence and reliability. Our journey began with a simple mission: to create spaces that inspire and endure.",
+    "description2": "Today, we're proud to be a leading provider of construction services and real estate solutions, known for our commitment to quality, innovation, and customer satisfaction.",
+    "contactUs": "Contact Us",
+    "ourProjects": "Our Projects",
+    "stats": {
+      "experience": "Years Experience",
+      "projects": "Projects Completed",
+      "clients": "Happy Clients",
+      "team": "Expert Team Members"
+    }
+  },
+  "testimonials": {
+    "title": "Testimonials",
+    "subtitle": "What Our Clients Say",
+    "description": "Hear from our satisfied clients about their experience working with Edirne Construction Limited.",
+    "clients": {
+      "client1": {
+        "name": "Sarah Johnson",
+        "role": "Homeowner",
+        "testimonial": "Edirne Construction Limited transformed our vision into reality. Their attention to detail and quality craftsmanship exceeded our expectations. We love our new home!"
+      },
+      "client2": {
+        "name": "Michael Chen",
+        "role": "Business Owner",
+        "testimonial": "The commercial space Edirne Construction Limited created for our business is perfect. They understood our needs and delivered a functional, beautiful space on time and within budget."
+      },
+      "client3": {
+        "name": "Emily Rodriguez",
+        "role": "Real Estate Investor",
+        "testimonial": "I've worked with Edirne Construction Limited on multiple investment properties. Their expertise in both construction and real estate has been invaluable to my portfolio growth."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in Touch",
+    "description": "Have questions or ready to start your project? Contact us today for a consultation.",
+    "info": {
+      "phone": {
+        "title": "Phone",
+        "value": "(284) 225-5141"
+      },
+      "email": {
+        "title": "Email",
+        "value": "info@edirnegroup.com"
+      },
+      "office": {
+        "title": "Office",
+        "value": "123 Construction Ave, Edirne, Turkey"
+      },
+      "hours": {
+        "title": "Hours",
+        "value": "Monday - Friday: 8:00 AM - 5:00 PM"
+      }
+    },
+    "form": {
+      "title": "Send us a Message",
+      "description": "Fill out the form below and we'll get back to you as soon as possible.",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "phone": "Phone",
+      "service": {
+        "title": "Service Interested In",
+        "placeholder": "Select a service",
+        "residential": "Residential Construction",
+        "commercial": "Commercial Construction",
+        "renovation": "Renovation & Remodeling",
+        "realEstate": "Real Estate",
+        "other": "Other"
+      },
+      "message": {
+        "title": "Message",
+        "placeholder": "Tell us about your project..."
+      },
+      "submit": "Send Message"
+    }
+  },
+  "underConstruction": {
+    "title": "Our Website is Under Construction",
+    "message": "We're working hard to bring you a new and improved website. In the meantime, feel free to contact us for any inquiries about our construction and real estate services.",
+    "launch": "Launch Date",
+    "launchDate": "Coming Soon",
+    "email": "Email Us",
+    "phone": "Call Us",
+    "notify": "Notify Me When Live",
+    "contact": "Contact Us Now"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "cookies": "Cookies"
+  }
+}
+

@@ -1,0 +1,168 @@
+{
+  "navigation": {
+    "home": "Ana Sayfa",
+    "construction": "İnşaat",
+    "properties": "Emlak",
+    "about": "Hakkımızda",
+    "contact": "İletişim",
+    "getQuote": "Teklif Al"
+  },
+  "hero": {
+    "title": "Hayalleri İnşa Ediyor, Evler Yaratıyoruz",
+    "subtitle": "İnşaat hizmetleri ve gayrimenkul çözümleri için güvenilir ortağınız. Kaliteli işçilik ve olağanüstü mülkler.",
+    "services": "Hizmetlerimiz",
+    "viewProperties": "Mülkleri Görüntüle"
+  },
+  "construction": {
+    "title": "İnşaat Hizmetleri",
+    "subtitle": "Uzman İnşaat Çözümleri",
+    "description": "Konuttan ticari projelere kadar, detaylara dikkat ve mükemmelliğe bağlılıkla kaliteli inşaat hizmeti sunuyoruz.",
+    "residential": {
+      "title": "Konut İnşaatı",
+      "description": "Vizyonunuza ve yaşam tarzınıza uygun özel evler, yenilemeler ve eklemeler."
+    },
+    "commercial": {
+      "title": "Ticari İnşaat",
+      "description": "En yüksek standartlarda inşa edilmiş ofis binaları, perakende alanları ve endüstriyel tesisler."
+    },
+    "renovation": {
+      "title": "Yenileme ve Tadilat",
+      "description": "Modern tasarımlar ve kaliteli işçilikle mevcut alanları dönüştürün."
+    },
+    "requestConsultation": "Danışmanlık Talep Et",
+    "process": {
+      "title": "İnşaat Sürecimiz",
+      "description": "Projenizin zamanında, bütçe dahilinde ve memnuniyetinizi sağlayacak şekilde tamamlanması için sistematik bir yaklaşım izliyoruz.",
+      "planning": {
+        "title": "Planlama ve Tasarım",
+        "description": "Vizyonunuzu ve gereksinimlerinizi yakalamak için işbirlikçi planlama ve detaylı tasarım."
+      },
+      "construction": {
+        "title": "İnşaat",
+        "description": "Kaliteli malzemeler ve yetenekli işçilikle uzman uygulama."
+      },
+      "completion": {
+        "title": "Tamamlama ve Teslim",
+        "description": "Son denetimler, kalite kontrolleri ve tamamlanan projenizin sorunsuz teslimi."
+      }
+    }
+  },
+  "properties": {
+    "title": "Gayrimenkul",
+    "subtitle": "Öne Çıkan Mülkler",
+    "description": "Modern yaşam ve yatırım için tasarlanmış, birinci sınıf konumlardaki premium mülk seçkimizi keşfedin.",
+    "tabs": {
+      "all": "Tümü",
+      "residential": "Konut",
+      "commercial": "Ticari",
+      "land": "Arsa"
+    },
+    "viewAll": "Tüm Mülkleri Görüntüle",
+    "property": {
+      "forSale": "Satılık",
+      "bedrooms": "Yatak Odası",
+      "bathrooms": "Banyo",
+      "garage": "Garaj",
+      "sqft": "m²",
+      "viewDetails": "Detayları Gör"
+    }
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "subtitle": "Hikayemiz",
+    "description1": "Edirne Construction Limited, 20 yılı aşkın inşaat ve gayrimenkul deneyimiyle mükemmellik ve güvenilirlik konusunda bir üne sahiptir. Yolculuğumuz basit bir misyonla başladı: ilham veren ve kalıcı alanlar yaratmak.",
+    "description2": "Bugün, kalite, yenilik ve müşteri memnuniyetine olan bağlılığımızla tanınan inşaat hizmetleri ve gayrimenkul çözümlerinin önde gelen sağlayıcısı olmaktan gurur duyuyoruz.",
+    "contactUs": "Bize Ulaşın",
+    "ourProjects": "Projelerimiz",
+    "stats": {
+      "experience": "Yıllık Deneyim",
+      "projects": "Tamamlanan Proje",
+      "clients": "Mutlu Müşteri",
+      "team": "Uzman Ekip Üyesi"
+    }
+  },
+  "testimonials": {
+    "title": "Referanslar",
+    "subtitle": "Müşterilerimiz Ne Diyor",
+    "description": "Edirne Construction Limited ile çalışma deneyimleri hakkında memnun müşterilerimizden dinleyin.",
+    "clients": {
+      "client1": {
+        "name": "Ayşe Yılmaz",
+        "role": "Ev Sahibi",
+        "testimonial": "Edirne Construction Limited vizyonumuzu gerçeğe dönüştürdü. Detaylara gösterdikleri özen ve kaliteli işçilik beklentilerimizi aştı. Yeni evimizi çok seviyoruz!"
+      },
+      "client2": {
+        "name": "Mehmet Kaya",
+        "role": "İşletme Sahibi",
+        "testimonial": "Edirne Construction Limited'in işletmemiz için yarattığı ticari alan mükemmel. İhtiyaçlarımızı anladılar ve zamanında ve bütçe dahilinde fonksiyonel, güzel bir alan teslim ettiler."
+      },
+      "client3": {
+        "name": "Zeynep Demir",
+        "role": "Gayrimenkul Yatırımcısı",
+        "testimonial": "Edirne Construction Limited ile birden fazla yatırım mülkü üzerinde çalıştım. İnşaat ve gayrimenkul konusundaki uzmanlıkları, portföyümün büyümesi için paha biçilmez oldu."
+      }
+    }
+  },
+  "contact": {
+    "title": "İletişim",
+    "subtitle": "Bize Ulaşın",
+    "description": "Sorularınız mı var veya projenize başlamaya hazır mısınız? Danışmanlık için bugün bize ulaşın.",
+    "info": {
+      "phone": {
+        "title": "Telefon",
+        "value": "(284) 225-5141"
+      },
+      "email": {
+        "title": "E-posta",
+        "value": "info@edirnegroup.com"
+      },
+      "office": {
+        "title": "Ofis",
+        "value": "İnşaat Caddesi No:123, Edirne, Türkiye"
+      },
+      "hours": {
+        "title": "Çalışma Saatleri",
+        "value": "Pazartesi - Cuma: 08:00 - 17:00"
+      }
+    },
+    "form": {
+      "title": "Bize Mesaj Gönderin",
+      "description": "Aşağıdaki formu doldurun, en kısa sürede size geri döneceğiz.",
+      "firstName": "Ad",
+      "lastName": "Soyad",
+      "email": "E-posta",
+      "phone": "Telefon",
+      "service": {
+        "title": "İlgilendiğiniz Hizmet",
+        "placeholder": "Bir hizmet seçin",
+        "residential": "Konut İnşaatı",
+        "commercial": "Ticari İnşaat",
+        "renovation": "Yenileme ve Tadilat",
+        "realEstate": "Gayrimenkul",
+        "other": "Diğer"
+      },
+      "message": {
+        "title": "Mesaj",
+        "placeholder": "Projeniz hakkında bize bilgi verin..."
+      },
+      "submit": "Mesaj Gönder"
+    }
+  },
+  "underConstruction": {
+    "title": "Web Sitemiz Yapım Aşamasında",
+    "message": "Size yeni ve geliştirilmiş bir web sitesi sunmak için çalışıyoruz. Bu süreçte, inşaat ve gayrimenkul hizmetlerimiz hakkında bilgi almak için bizimle iletişime geçebilirsiniz.",
+    "launch": "Yayın Tarihi",
+    "launchDate": "Çok Yakında",
+    "email": "E-posta Gönder",
+    "phone": "Bizi Arayın",
+    "notify": "Yayına Girdiğinde Bana Haber Ver",
+    "contact": "Şimdi İletişime Geç"
+  },
+  "footer": {
+    "rights": "Tüm hakları saklıdır.",
+    "terms": "Şartlar",
+    "privacy": "Gizlilik",
+    "cookies": "Çerezler"
+  }
+}
+
